@@ -1,0 +1,12 @@
+D:\Tanya\Salon\Domen\bin\Debug\net7.0\Domen.deps.json
+D:\Tanya\Salon\Domen\bin\Debug\net7.0\Domen.dll
+D:\Tanya\Salon\Domen\bin\Debug\net7.0\Domen.pdb
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.csproj.AssemblyReference.cache
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.AssemblyInfoInputs.cache
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.AssemblyInfo.cs
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.csproj.CoreCompileInputs.cache
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.dll
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\refint\Domen.dll
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\Domen.pdb
+D:\Tanya\Salon\Domen\obj\Debug\net7.0\ref\Domen.dll

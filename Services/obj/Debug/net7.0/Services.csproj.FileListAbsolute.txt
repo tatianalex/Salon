@@ -1,0 +1,15 @@
+D:\Tanya\Salon\Services\bin\Debug\net7.0\Services.deps.json
+D:\Tanya\Salon\Services\bin\Debug\net7.0\Services.dll
+D:\Tanya\Salon\Services\bin\Debug\net7.0\Services.pdb
+D:\Tanya\Salon\Services\bin\Debug\net7.0\Domen.dll
+D:\Tanya\Salon\Services\bin\Debug\net7.0\Domen.pdb
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.csproj.AssemblyReference.cache
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.AssemblyInfoInputs.cache
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.AssemblyInfo.cs
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.csproj.CoreCompileInputs.cache
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.csproj.CopyComplete
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.dll
+D:\Tanya\Salon\Services\obj\Debug\net7.0\refint\Services.dll
+D:\Tanya\Salon\Services\obj\Debug\net7.0\Services.pdb
+D:\Tanya\Salon\Services\obj\Debug\net7.0\ref\Services.dll
